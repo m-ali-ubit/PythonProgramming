@@ -40,3 +40,21 @@ while num < 20:
     if x > int(num / x):
         print(num)
     num += 1
+
+# iterating over multiple sequences
+names = ['Ali', 'Umair', 'Zia', 'Ahsan']
+fields = ['python', 'iOS', 'Java', 'Oracle']
+ages = [23, 23, 23, 22]
+# using range
+for pos in range(len(names)):
+    print(names[pos],
+          fields[pos],
+          ages[pos])
+
+# using zip
+for name, field, age in zip(names, fields, ages):
+    print(name, field, age)
+
+# using enumerate
+for pos, name in enumerate(names):
+    print(name,fields[pos], ages[pos])
