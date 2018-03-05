@@ -1,0 +1,2 @@
+Python is a interpreted and high-level programming language.
+Python is a general purpose language
