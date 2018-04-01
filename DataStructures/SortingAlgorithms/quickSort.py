@@ -21,3 +21,9 @@ def quick_sort(lst, start, end):
         pi = partition(lst, start, end)
         quick_sort(lst, start, pi - 1)                   # Separately sort elements before partition
         quick_sort(lst, pi + 1, end)                     # and after partition
+
+lst = [11, 77, 44, 3, 21, 99, 1, 38]
+quick_sort(lst, 0, len(lst)-1)
+print('sorted list')
+for i in lst:
+    print(i, end=' ')
