@@ -1,2 +1,41 @@
 # PythonProgramming
 python basic programming ; python practice exercises ; problem solving exercise ; algorithms using python
+
+1. BasicPrintStatements
+2. PrintUsingVariables
+3. arithematicOperators
+4. comparisionOperators
+5. assignmentOperators
+6. logicalOperators
+7. membershipOperator
+8. identityOperator
+9. mathematicalFunctions
+10. decisionMaking
+11. specialElse
+12. typeCasting
+13. loops
+14. nestedLoops
+15. stringFunctions
+16. listFunctions
+17. tupleFunctions
+18. dictionaryFunctions
+19. dateTime
+20. listComprehension
+21. dictionaryComprehension
+22. functions
+23. fibonacci
+24. fileIO
+25. performanceCheck
+26. generators
+27. decorators
+28. exceptionHandling
+29. filter
+30. map
+31. zip
+32. reduce
+33. recursionExercise
+34. OOP
+35. propertyDecorator
+36. randomNumberFunctions
+37. zenOfPython
+38. Data Stuctures
